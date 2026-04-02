@@ -18,16 +18,26 @@
    ╚═╝    ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚══════╝
 ```
 
-[![Ass Whiteness](https://img.shields.io/badge/Ass%20Whiteness-Required-white?style=for-the-badge&logo=ghost)](https://github.com)
-[![Tunnel Status](https://img.shields.io/badge/Tunnel-Maybe%20Working-yellow?style=for-the-badge&logo=cloudflare)](https://github.com)
-[![Iran Compatible](https://img.shields.io/badge/Iran%20Compat-Depends%20on%20Ass-green?style=for-the-badge)](https://github.com)
-[![Stars](https://img.shields.io/badge/Stars-⭐%20Ask%20Your%20Mom-blue?style=for-the-badge)](https://github.com)
+[![Ass Whiteness](https://img.shields.io/badge/Ass%20Whiteness-Required-white?style=for-the-badge&logo=ghost)](https://t.me/D_V_4)
+[![Tunnel Status](https://img.shields.io/badge/Tunnel-Maybe%20Working-yellow?style=for-the-badge&logo=cloudflare)](https://t.me/D_V_4)
+[![Iran Compatible](https://img.shields.io/badge/Iran%20Compat-Depends%20on%20Ass-green?style=for-the-badge)](https://t.me/D_V_4)
+[![Made By ARMP](https://img.shields.io/badge/By-%23𝙰𝚁𝙼𝙿-purple?style=for-the-badge)](https://t.me/D_V_4)
 
 **پیشرفته‌ترین، قدرتمندترین و سفیدترین تانل جهان** 🌍
 
 *The World's Most Advanced, Powerful, and Whitest Tunnel*
 
+**By [https://t.me/D_V_4](https://t.me/D_V_4) | By #𝙰𝚁𝙼𝙿**
+
 </div>
+
+---
+
+> 🇮🇷 **این پروژه به مناسبت قطعی‌های مکرر اینترنت در ایران ساخته شده.**
+> به همه قطعی‌هایی که تحملشون کردیم تقدیم می‌شه. 🕯️
+
+> 🇬🇧 **This project was created in honor of Iran's frequent internet shutdowns.**
+> Dedicated to every outage we've endured. 🕯️
 
 ---
 
@@ -37,16 +47,9 @@
 
 ## 🇮🇷 درباره پروژه
 
-> ⚠️ **هشدار مهم:** این پروژه کاملاً غیرواقعی، فانتزی، و جهت خنده ساخته شده. اگر دنبال تانل واقعی هستید، متأسفانه خبر بدی داریم...
-
 **White Ass Tunnel** یا به اختصار **WAT** (که واکنش طبیعی هر کسی به این پروژه هم هست)، یک راه‌حل انقلابی برای دور زدن اینترنت ملی است.
 
-### 🔬 تکنولوژی پشت WAT
-
-پس از سال‌ها تحقیق در دانشگاه‌های معتبر جهانی از جمله **دانشگاه آزاد واحد پشت‌کوه**، دانشمندان به یک کشف شگفت‌انگیز رسیدند:
-
-> *"رنگ باسن اپراتور مستقیماً بر کیفیت و پایداری تانل تأثیر می‌گذارد"*
-> — دکتر علی باسنی، رئیس آزمایشگاه تحقیقات باسن‌شناسی، ۱۴۰۳
+این پروژه در پاسخ به سال‌ها قطعی اینترنت، فیلترینگ، و اختلال عمدی در ایران ساخته شده. ما نمی‌تونیم اینترنت رو درست کنیم، ولی می‌تونیم بخندیم. 😄
 
 ### 📊 جدول سازگاری باسن
 
@@ -95,16 +98,9 @@ echo "متأسفم دوست من 😢"
 
 ## 🇬🇧 About the Project
 
-> ⚠️ **Important Warning:** This project is completely fictional, fantasy-based, and made for laughs. If you're looking for a real tunnel... we have bad news.
-
 **White Ass Tunnel** (WAT — which is also everyone's natural reaction to this project) is a revolutionary solution for bypassing national internet restrictions.
 
-### 🔬 The Technology Behind WAT
-
-After years of research at prestigious universities including **Poshtkoh Azad University**, scientists made a groundbreaking discovery:
-
-> *"The color of the operator's buttocks directly affects tunnel quality and stability"*
-> — Dr. Ali Bassani, Head of Buttocks Research Lab, 2024
+This project was born out of years of internet outages, filtering, and deliberate disruption in Iran. We can't fix the internet, but we can laugh. 😄
 
 ### 📊 Buttocks Compatibility Table
 
@@ -206,43 +202,6 @@ echo "Sorry my friend 😢"
 
 ---
 
-## 🗺️ نقشه راه / Roadmap
-
-- [x] ایده احمقانه / Stupid idea ✅
-- [x] README نوشتیم / Wrote README ✅
-- [ ] تست با باسن‌های مختلف / Testing with various buttocks
-- [ ] اضافه کردن سنسور تشخیص رنگ باسن / Add butt color sensor
-- [ ] پشتیبانی از IPv6 / IPv6 support
-- [ ] اپ موبایل برای سلفی از باسن / Mobile app for butt selfie verification
-- [ ] یادگیری ماشین برای پیش‌بینی کیفیت باسن / ML for butt quality prediction
-- [ ] WAT Pro نسخه پریمیوم برای باسن‌های خیلی سفید / WAT Pro for extra-white
-
----
-
-## 🤝 مشارکت / Contributing
-
-اگه می‌خوای کمک کنی:
-1. باسنت رو چک کن
-2. اگه سفید بود، Fork کن
-3. اگه سفید نبود... بازم Fork کن، فقط Pull Request‌هات کندتر merge می‌شن
-
-If you want to contribute:
-1. Check your butt
-2. If white, Fork it
-3. If not white... still Fork it, your PRs just get merged slower
-
----
-
-## 📜 لایسنس / License
-
-**WABO License** (White Ass Butt Open-source)
-
-این پروژه کاملاً آزاد است، مثل اینترنتی که آرزوشو داری.
-
-This project is completely free, like the internet you wish you had.
-
----
-
 ## ⭐ ستاره بده / Star This Repo
 
 اگه این پروژه کمکی نکرد (که نمی‌کنه)، حداقل ستاره بده تا حالمون بهتر بشه.
@@ -260,5 +219,12 @@ If this project didn't help (it won't), at least star it so we feel better.
 *"باسن سفید، اینترنت آزاد"*
 
 *"White Ass, Free Internet"*
+
+---
+
+**By [https://t.me/D_V_4](https://t.me/D_V_4) | By #𝙰𝚁𝙼𝙿**
+
+*تقدیم به تمام قطعی‌های اینترنت ایران 🕯️*
+*Dedicated to all Iranian internet outages 🕯️*
 
 </div>
