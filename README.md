@@ -39,17 +39,7 @@
 
 ---
 
-## 🇮🇷 فارسی | 🇬🇧 English
-
----
-
-**White Ass Tunnel** یا به اختصار **WAT** (که واکنش طبیعی هر کسی به این پروژه هم هست)، یک راه‌حل انقلابی برای دور زدن اینترنت ملی است.
-
-**White Ass Tunnel** (WAT — which is also everyone's natural reaction to this project) is a revolutionary solution for bypassing national internet restrictions.
-
----
-
-### 📊 جدول سازگاری باسن / Buttocks Compatibility Table
+### 📊 جدول سازگاری باسن / Ass Compatibility Table
 
 | رنگ باسن | کیفیت تانل | پینگ | توضیحات |
 |----------|------------|------|----------|
@@ -59,8 +49,8 @@
 | ⚫ تیره | ❌ کار نمی‌کنه | Timeout | برادر اصلاً وصل نمی‌شه |
 | 🔴 قرمز | 💥 سرور می‌ترکه | N/A | چرا قرمزه؟؟؟ |
 
-| Butt Color | Tunnel Quality | Ping | Notes |
-|------------|---------------|------|-------|
+| Ass Color | Tunnel Quality | Ping | Notes |
+|-----------|---------------|------|-------|
 | 🤍 Snow White | ⭐⭐⭐⭐⭐ Excellent | 1ms | Internet like Switzerland |
 | 🩶 Gray | ⭐⭐⭐ Medium | 150ms | Still better than Iranian internet |
 | 🟤 Brown | ⭐ Poor | 999ms | Sites won't load |
@@ -76,8 +66,8 @@
 ```
 ✅ یک سرور خارجی / A foreign server
 ✅ یک سرور ایرانی / An Iranian server
-✅ باسن سفید (اجباری) / White buttocks (MANDATORY)
-✅ آینه برای بررسی رنگ باسن / A mirror to check butt color
+✅ باسن سفید (اجباری) / White ass (MANDATORY)
+✅ آینه برای بررسی رنگ باسن / A mirror to check ass color
 ✅ روح مبارز / Fighting spirit
 ❓ اینترنت / Internet (optional, depends)
 ```
@@ -111,8 +101,8 @@ echo "متأسفم دوست من 😢 / Sorry my friend 😢"
           ▲
           │
      🍑 باسن سفید / White Ass
+          ▲
           │
-          ▼
    🖥️ سرور ایرانی / Iranian Server
           │
           ▼
@@ -126,14 +116,12 @@ echo "متأسفم دوست من 😢 / Sorry my friend 😢"
 **🇮🇷**
 - اگه باسنت قهوه‌ایه و کانکشن قطع می‌شه، ما مسئول نیستیم
 - تانل در شب‌های جمعه ۳۰٪ کندتر کار می‌کنه (علت نامعلوم)
-- اگه قطع کردن اینترنت بود، باسن‌سفیدی کمکی نمی‌کنه، صبر کن تموم بشه
 - سازگاری با باسن‌های مصنوعی هنوز تست نشده
 
 **🇬🇧**
-- If your butt is brown and connection drops, that's on you
+- If your ass is brown and connection drops, that's on you
 - Tunnel operates 30% slower on Friday nights (reason unknown)
-- During complete internet shutdowns, white-assedness doesn't help, just wait
-- Compatibility with artificial buttocks not yet tested
+- Compatibility with artificial asses not yet tested
 
 ---
 
@@ -142,38 +130,24 @@ echo "متأسفم دوست من 😢 / Sorry my friend 😢"
 **س: آیا واقعاً باسنم باید سفید باشه؟**
 ج: بله. کاملاً جدی هستیم.
 
-**Q: Does my butt really need to be white?**
+**Q: Does my ass really need to be white?**
 A: Yes. We are completely serious.
 
 ---
 
 **س: رنگ باسنم تیره‌ست. چیکار کنم؟**
-ج: گزینه‌های پیش رو:
-- VPN بخر (این یکی شاید جواب بده)
-- با مودم یه‌خطه کنار بیا
-- صبر کن یه روزی درست بشه
+ج: صبر کن یه روزی درست بشه 🕯️
 
-**Q: My butt is dark. What do I do?**
-A: Options:
-- Buy a VPN (this one might actually work)
-- Learn to live with terrible speeds
-- Wait for things to get better someday
+**Q: My ass is dark. What do I do?**
+A: Wait for things to get better someday 🕯️
 
 ---
 
 **س: باسن مصنوعی دارم. کار می‌کنه؟**
 ج: هنوز تست نشده. Pull Request بزن.
 
-**Q: I have an artificial butt. Will it work?**
+**Q: I have an artificial ass. Will it work?**
 A: Untested. Submit a Pull Request.
-
----
-
-**س: اینترنت قطعه. می‌تونه کمک کنه؟**
-ج: خیر. هیچ تانلی در دنیا نمی‌تونه کمک کنه. برو کتاب بخون.
-
-**Q: Internet is completely cut. Can this help?**
-A: No. No tunnel in the world can help. Go read a book.
 
 ---
 
@@ -181,23 +155,7 @@ A: No. No tunnel in the world can help. Go read a book.
 ج: باسنت به اندازه کافی سفید نیست.
 
 **Q: Why is my ping 3000ms?**
-A: Your butt is not white enough.
-
----
-
-**س: آیا WAT امن است؟**
-ج: نه. هیچی امن نیست. زندگی امن نیست.
-
-**Q: Is WAT secure?**
-A: No. Nothing is secure. Life is not secure.
-
----
-
-**س: چرا این پروژه ساخته شد؟**
-ج: قطعی اینترنت ایران.
-
-**Q: Why was this project created?**
-A: Iranian internet shutdowns.
+A: Your ass is not white enough.
 
 ---
 
